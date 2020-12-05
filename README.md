@@ -1,6 +1,6 @@
 # Hand-written-digits-recognition-CNN-keras
 MNIST ("Modified National Institute of Standards and Technology") is the de facto “hello world” dataset of computer vision.
-We use two conventional neural networks, one is based on Conv2D and the other on SeparableConv2D from Keras.
+We use two convolutional neural networks, one is based on Conv2D and the other on SeparableConv2D from Keras.
 
 ## Data:
 The data file train.csv contain gray-scale images of hand-drawn digits, from zero through nine.
